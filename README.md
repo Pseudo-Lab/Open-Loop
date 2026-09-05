@@ -1,6 +1,6 @@
 # OpenLoop
 
-<h1 align="center"> 🔄 OpenLoop </h1>
+<h1 align="center"> OpenLoop </h1>
 
 <div align="center">
 <a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S13-3776AB" alt="PseudoLab"/></a>
