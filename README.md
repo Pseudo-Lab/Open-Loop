@@ -37,6 +37,8 @@ OpenLoop explores how existing project activities can be transformed into access
 
 # Key Milestones
 
+Our Season 13 journey moves through five stages: BUILD → CURATE → LAUNCH → AMPLIFY → SCALE
+
 ### BUILD THE LOOP
 
 - Define criteria for identifying projects and activities to highlight
@@ -82,8 +84,6 @@ By the end of the season, OpenLoop aims to establish:
 <br>
 
 # Weekly Roadmap
-
-Our Season 13 journey moves through five stages: BUILD → CURATE → LAUNCH → AMPLIFY → SCALE
 
 | Week | Stage | Date | Time | Format | Key Activities | Expected Outcome |
 | --- | --- | --- | --- | --- | --- | --- |
