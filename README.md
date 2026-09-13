@@ -10,43 +10,47 @@
 <a href="https://github.com/Pseudo-Lab/Open-Loop/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Lab/Open-Loop?color=2b9348"></a>
 </div>
 
-<br>
+<h1 align="center"> 🔄 OpenLoop </h1>
 
-OpenLoop is a community initiative that aims to build a repeatable workflow for bringing Pseudo Lab projects to global audiences — connecting content discovery with opportunities to participate and contribute.
+**OpenLoop** is a Pseudo Lab community project that explores how **content storytelling and AI-powered workflow automation** can bring open-source projects to global audiences.
+
+Throughout the season, we will design, test, and document a repeatable workflow that transforms existing Pseudo Lab project content into English-language content for global discovery — while creating clearer pathways for potential contributors to discover and engage with projects through GitHub.
+
+
+> **Github Page: https://github.com/Pseudo-Lab/Open-Loop**
 
 <br>
 
 # Why OpenLoop?
 
-> **OpenRel = Open Source Relations**
+> **Toward global open-source participation.**
 
-Based in South Korea, Pseudo Lab is home to a growing community of builders, researchers, and open-source contributors exploring AI and emerging technologies. 
+Based in South Korea, Pseudo Lab is home to a growing community of builders, researchers, learners, and open-source contributors exploring AI and emerging technologies.
 
-Across the community, projects continuously generate research, technical insights, experiments, and stories worth sharing.
+Across the community, projects continuously generate research, technical insights, experiments, and stories worth sharing. However, bringing these stories to global audiences requires more than translation. 
 
-OpenLoop aims to bring these projects and stories to wider audiences by building a repeatable global communication workflow. 
+It requires a repeatable process for understanding project context, adapting content for global audiences, maintaining technical accuracy, and connecting content discovery with opportunities to contribute.
 
-By curating existing project content, adapting it for global audiences, and sharing it across social media platforms, we aim to create new entry points into the Pseudo Lab community.
+OpenLoop explores how this process can be standardized, automated, tested, and ultimately reused by other Pseudo Lab projects.
 
-### Problem Statement
+### Our Goal
 
-> **Our goal is to build a sustainable loop that helps global audiences discover, understand, and contribute to Pseudo Lab projects.**
-
-OpenLoop explores how existing project content can be transformed into accessible global content and, ultimately, create pathways from project discovery to open-source contribution.
-
-<br>
-
-# What We Are Building
+> **Build a reusable AI-powered content workflow that helps Pseudo Lab projects reach global audiences and connect with potential open-source contributors.**
 
 Rather than simply creating English content, OpenLoop aims to turn the **content-production process itself into a reusable workflow**.
 
-Throughout the project, we will develop and test a pipeline spanning:
+Our long-term goal is to enable any Pseudo Lab project to use the OpenLoop workflow when it is ready to reach global audiences — making it easier to publish English content, share project stories, and create new entry points for participation through GitHub.
 
-> **Blog Translation → Content Standardization → LinkedIn Visual → LinkedIn Post → AI Workflow Automation → Publication**
+<br>
 
-We will first explore what effective global content looks like, develop standardized content formats, and then translate those learnings into repository-based AI workflows using **Codex or Claude Code**.
+# The OpenLoop Workflow
 
-Our long-term goal is to enable any Pseudo Lab project to use the OpenLoop workflow when it is ready to reach global audiences — making it easier to publish English content, share project stories, and connect with potential contributors through GitHub.
+> **Build manually. Standardize what works. Automate what repeats.**
+
+
+Throughout the season, we will first establish what good global content looks like, translate those learnings into a standardized process, and then experiment with repository-based AI workflows using **Codex or Claude Code**.
+
+The goal is not to automate every decision. Instead, we aim to identify repetitive parts of the process that AI can handle effectively while preserving human review for storytelling, technical accuracy, and final publication decisions.
 
 <br>
 
