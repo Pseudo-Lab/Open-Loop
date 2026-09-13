@@ -10,20 +10,17 @@
 <a href="https://github.com/Pseudo-Lab/Open-Loop/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Lab/Open-Loop?color=2b9348"></a>
 </div>
 
-<h1 align="center"> 🔄 OpenLoop </h1>
-
 **OpenLoop** is a Pseudo Lab community project that explores how **content storytelling and AI-powered workflow automation** can bring open-source projects to global audiences.
 
 Throughout the season, we will design, test, and document a repeatable workflow that transforms existing Pseudo Lab project content into English-language content for global discovery — while creating clearer pathways for potential contributors to discover and engage with projects through GitHub.
 
-
-> **Github Page: https://github.com/Pseudo-Lab/Open-Loop**
+> **Project Page: https://pseudo-lab.com/projects/f19e207c-1c3d-426b-b485-d1744655c7a0?tab=home**
 
 <br>
 
 # Why OpenLoop?
 
-> **Toward global open-source participation.**
+> **OpenRel = Open Source Relations**
 
 Based in South Korea, Pseudo Lab is home to a growing community of builders, researchers, learners, and open-source contributors exploring AI and emerging technologies.
 
