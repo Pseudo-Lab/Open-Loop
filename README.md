@@ -119,6 +119,7 @@ By the end of the season, OpenLoop aims to establish a reusable **OpenLoop Toolk
 | **W12** | SCALE | 2026.12.21 | OFFLINE | Share the workflow with Pseudo Lab members; collect feedback and identify usability issues | Community feedback |
 | **W13** | SCALE | 2026.12.28 | OFFLINE | Apply the finalized workflow to selected projects; record interventions and improvement opportunities; finalize workflow and documentation | Final OpenLoop workflow |
 | **W14** | BREAK | 2027.01.04 | — | Project retrospective and preparation for final sharing/presentation | Project retrospective |
+| **W15** | BREAK | 2027.01.09 | — | Share project with whole community | Grand Gathering Event |
 
 <br>
 
