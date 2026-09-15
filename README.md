@@ -120,8 +120,6 @@ By the end of the season, OpenLoop aims to establish a reusable **OpenLoop Toolk
 | **W14** | BREAK | 2027.01.04 | — | Prepare for final sharing and presentation | Presentation preparation |
 | **W15** | GRAND GATHERING | 2027.01.09 | OFFLINE | Share the OpenLoop project, workflow, findings, and outcomes with the wider community | Grand Gathering Event |
 
-<br>
-
 # The OpenLoop Workflow
 
 > **Build manually. Standardize what works. Automate with purpose.**
@@ -141,7 +139,45 @@ Global Discovery
         ↓
 GitHub Contribution
         ↻
+```
 
+OpenLoop begins with human-led content experimentation before introducing AI assistance and automation where appropriate.
+
+This allows us to first understand **what good content looks like**, then determine which parts of the process are best handled through **human judgment, templates or rules, AI assistance, or automation**.
+
+<br>
+
+# Shared Workflow Development
+
+A core part of OpenLoop is exploring how the standardized content process can be translated into a **shared repository-based workflow**.
+
+Rather than building separate workflows, participants will work within one shared OpenLoop repository, taking primary responsibility for different workflow components while reviewing and integrating them together.
+
+Before development begins, the team will review example repositories together to understand how **instructions, guidelines, inputs, outputs, workflow structures, and QA processes** are organized.
+
+For each example, we will identify:
+
+- **Adopt** — Approaches that can be directly useful to OpenLoop
+- **Adapt** — Useful approaches that need modification for the OpenLoop context
+- **Avoid** — Unnecessary complexity or automation that does not add meaningful value
+
+These findings will inform the shared OpenLoop repository structure and the division of workflow responsibilities.
+
+### Workflow Evaluation
+
+The integrated workflow will be evaluated across:
+
+| Criterion | What We Evaluate |
+| --- | --- |
+| **Accuracy** | Does the output preserve source facts and technical meaning? |
+| **Content Quality** | Is the content clear and appropriate for global audiences? |
+| **Consistency** | Does the output follow the standardized OpenLoop format? |
+| **Efficiency** | How much time does the workflow require? |
+| **AI / Token Usage** | Is AI usage reasonable relative to the value it provides? |
+| **Human Intervention** | How much manual editing or correction is needed? |
+| **Reusability** | Can the workflow be applied to another project without rebuilding it? |
+
+The results will be used to refine the workflow and determine where human judgment, templates/rules, AI assistance, or automation provide the most effective approach.
 
 <br>
 
@@ -179,12 +215,12 @@ Each participant will take primary responsibility for a workflow component while
 
 # Who We're Looking For
 
-> **OpenLoop welcomes anyone interested in bringing open-source projects to global audiences through content storytelling and AI-powered workflow automation.**
+> **OpenLoop welcomes anyone interested in bringing open-source projects to global audiences through content storytelling and AI-assisted workflow development.**
 
 We're looking for people with:
 
 - Experience or interest in content curation and storytelling
-- Interest in AI-powered workflow automation for content and marketing
+- Interest in AI-assisted workflows for content and marketing
 - Interest in open-source communities and global engagement
 - Working proficiency in English
 - Experience or interest in visual content design using Canva, Figma, or similar tools
@@ -202,7 +238,7 @@ No single participant is expected to be an expert across every area. OpenLoop is
 There are many ways to participate in OpenLoop:
 
 - 🧭 **Builder** — Help shape and coordinate the project
-- 🏃 **Runner** — Build, test, and document content and AI workflows
+- 🏃 **Runner** — Build, test, and document content and workflow components
 - 👀 **Open Participant** — Join open sessions, follow experiments, and share feedback
 - 💻 **Contributor** — Improve the OpenLoop workflow or contribute directly to featured Pseudo Lab projects through GitHub
 
@@ -230,9 +266,9 @@ This section documents the workflows, experiments, outputs, and learnings create
 
 - 🔄 OpenLoop Workflow: `URL`
 - 📖 Content Guidelines: `URL`
-- 🤖 AI Workflow: `URL`
+- 🗂️ Repository Study: `URL`
 - 📋 Templates: `URL`
-- 🧪 Workflow Experiments: `URL`
+- 🧪 Workflow Evaluation: `URL`
 
 ## Content Collections
 
@@ -246,8 +282,10 @@ This section documents the workflows, experiments, outputs, and learnings create
 | Date | Update | Link |
 | --- | --- | --- |
 | `2026.10.26` | Standardized Content Format Selected | `URL` |
-| `2026.11.30` | Shared OpenLoop Workflow Consolidated | `URL` |
-| `2026.12.28` | Final Workflow Test & Documentation | `URL` |
+| `2026.11.09` | Repository Architecture Designed | `URL` |
+| `2026.11.30` | Integrated OpenLoop Workflow Tested | `URL` |
+| `2026.12.28` | OpenLoop Toolkit Finalized | `URL` |
+| `2027.01.09` | Grand Gathering | `URL` |
 
 <br>
 
