@@ -10,7 +10,7 @@
 <a href="https://github.com/Pseudo-Lab/Open-Loop/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Lab/Open-Loop?color=2b9348"></a>
 </div>
 
-**OpenLoop** is a Pseudo Lab community project that explores how **content storytelling and AI-powered workflow automation** can bring open-source projects to global audiences.
+**OpenLoop** is a Pseudo Lab community project that explores how **content storytelling and AI-assisted workflows** can bring open-source projects to global audiences.
 
 Throughout the season, we will design, test, and document a repeatable workflow that transforms existing Pseudo Lab project content into English-language content for global discovery — while creating clearer pathways for potential contributors to discover and engage with projects through GitHub.
 
@@ -28,11 +28,11 @@ Across the community, projects continuously generate research, technical insight
 
 It requires a repeatable process for understanding project context, adapting content for global audiences, maintaining technical accuracy, and connecting content discovery with opportunities to contribute.
 
-OpenLoop explores how this process can be standardized, automated, tested, and ultimately reused by other Pseudo Lab projects.
+OpenLoop explores how this process can be standardized, supported by AI where useful, tested and ultimately reused by other Pseudo Lab projects.
 
 ### Our Goal
 
-> **Build a reusable AI-powered content workflow that helps Pseudo Lab projects reach global audiences and connect with potential open-source contributors.**
+> **Build a reusable human-AI content workflow that helps Pseudo Lab projects reach global audiences and connect with potential open-source contributors.**
 
 Rather than simply creating English content, OpenLoop aims to turn the **content-production process itself into a reusable workflow**.
 
@@ -42,7 +42,7 @@ Our long-term goal is to enable any Pseudo Lab project to use the OpenLoop workf
 
 # The OpenLoop Workflow
 
-> **Build manually. Standardize what works. Automate what repeats.**
+> **Build manually. Standardize what works. Automate with purpose.**
 
 
 Throughout the season, we will first establish what good global content looks like, translate those learnings into a standardized process, and then experiment with repository-based AI workflows using **Codex or Claude Code**.
@@ -58,30 +58,28 @@ The goal is not to automate every decision. Instead, we aim to identify repetiti
 - Review existing Pseudo Lab content and global LinkedIn references
 - Explore effective post and visual formats for global audiences
 - Establish content criteria and global storytelling approaches
+- Develop and compare proposed OpenLoop content formats
 
 ### CURATE THE LOOP
 
-- Develop a standardized OpenLoop content format
-- Define common steps, guidelines, inputs, outputs, and QA criteria
-- Establish the workflow from blog translation to LinkedIn content
+- Refine the selected approach into a standardized OpenLoop content format
+- Map the end-to-end content process and define common steps, guidelines, inputs, outputs, and QA criteria
+- Review example repositories and identify approaches to adopt, adapt, or avoid
+- Design the shared OpenLoop repository structure and divide workflow components and responsibilities
 
-### LAUNCH THE LOOP
+### DEVELOP THE LOOP
 
-- Identify repetitive tasks and opportunities for AI automation
-- Build repository-based AI content workflows using Codex or Claude Code
-- Define standardized inputs, workflow steps, outputs, and QA requirements
-
-### AMPLIFY THE LOOP
-
-- Test individual AI workflows using the same selected Pseudo Lab project assets
-- Compare output quality, consistency, processing time, and required human intervention
-- Consolidate them into one shared OpenLoop AI workflow
+- Develop assigned workflow components within the shared OpenLoop repository
+- Connect individual components into an end-to-end workflow
+- Test the integrated workflow using selected Pseudo Lab project content
+- Evaluate where human judgment, templates/rules, AI assistance, or automation are most effective
 
 ### SCALE THE LOOP
 
-- Document the consolidated OpenLoop workflow
-- Develop reusable guidelines, templates, and supporting materials
-- Apply and finalize the workflow using real Pseudo Lab projects
+- Refine the workflow based on test results and remove unnecessary complexity or AI usage
+- Document the workflow, guidelines, templates, and supporting materials
+- Test whether others can reproduce the workflow using the documentation
+- Gather community feedback and apply the refined workflow to real Pseudo Lab projects
 
 <br>
 
@@ -90,9 +88,10 @@ The goal is not to automate every decision. Instead, we aim to identify repetiti
 By the end of the season, OpenLoop aims to establish a reusable **OpenLoop Toolkit** consisting of:
 
 - **Global Content Guidelines** — Principles for adapting Pseudo Lab project stories for global audiences
-- **Standardized Content Workflow** — A repeatable process connecting Blog Translation → LinkedIn Visual → LinkedIn Post
-- **AI-Powered Workflow** — A repository-based workflow built and tested using Codex and/or Claude Code
+- **Standardized Content Workflow** — A repeatable process connecting Blog Translation → LinkedIn Post → LinkedIn Visual
+- **Human–AI Workflow** — A repository-based workflow combining human judgment, templates/rules, AI assistance, and automation where appropriate
 - **Workflow Documentation** — Instructions and templates that allow other Pseudo Lab members to reproduce the process
+- **QA & Evaluation Framework** — Criteria for evaluating accuracy, consistency, efficiency, AI/token usage, and human intervention
 - **Real Project Outputs** — Content produced by applying the OpenLoop workflow to selected Pseudo Lab projects
 
 > **Ultimately, success means that the OpenLoop workflow can be understood, reproduced, and adapted by Pseudo Lab projects beyond the original team.**
@@ -106,33 +105,33 @@ By the end of the season, OpenLoop aims to establish a reusable **OpenLoop Toolk
 | Week | Stage | Date | Format | Key Activities | Expected Outcome |
 | --- | --- | --- | --- | --- | --- |
 | **W01** | OT | 2026.10.05 | OFFLINE | Project introduction & orientation; introduce the OpenLoop vision, milestones, and expected outcomes | Team alignment |
-| **W02** | BUILD | 2026.10.12 | ONLINE | Review existing Pseudo Lab assets; each participant researches and shares LinkedIn content best practices across post and visual formats | Best-practice reference pool |
-| **W03** | BUILD | 2026.10.19 | ONLINE | Develop a proposed LinkedIn content format; adapt one Pseudo Lab project asset; share and compare formats | Individual content prototypes |
-| **W04** | BREAK | 2026.10.26 | — | Vote asynchronously on one standardized content format for the first OpenLoop collection | Selected content format |
-| **W05** | CURATE | 2026.11.02 | OFFLINE | Translate the selected content format into a standardized workflow; define steps, guidelines, inputs, outputs, and QA criteria | Standardized OpenLoop content workflow |
-| **W06** | LAUNCH | 2026.11.09 | ONLINE | Identify repetitive tasks and automation opportunities; each participant builds one repository-based AI content workflow using Codex or Claude Code | Individual AI workflow prototypes |
-| **W07** | AMPLIFY | 2026.11.16 | ONLINE | Test each AI-powered workflow using the same selected Pseudo Lab project(s); record quality, consistency, processing time, and human intervention | Workflow test results |
-| **W08** | AMPLIFY | 2026.11.23 | ONLINE | Share test results, challenges, and learnings; compare approaches and identify the strongest elements | Workflow comparison |
-| **W09** | AMPLIFY | 2026.11.30 | ONLINE | Incorporate successful elements into one shared OpenLoop AI workflow; test and refine the consolidated workflow | Consolidated OpenLoop AI workflow |
-| **W10** | SCALE | 2026.12.07 | OFFLINE | Document the consolidated workflow; define inputs, steps, outputs, human review points, and QA process | Workflow documentation |
-| **W11** | SCALE | 2026.12.14 | OFFLINE | Complete documentation, templates, and supporting materials; test whether the workflow can be reproduced using documentation alone | Reusable OpenLoop toolkit |
-| **W12** | SCALE | 2026.12.21 | OFFLINE | Share the workflow with Pseudo Lab members; collect feedback and identify usability issues | Community feedback |
-| **W13** | SCALE | 2026.12.28 | OFFLINE | Apply the finalized workflow to selected projects; record interventions and improvement opportunities; finalize workflow and documentation | Final OpenLoop workflow |
-| **W14** | BREAK | 2027.01.04 | — | Project retrospective and preparation for final sharing/presentation | Project retrospective |
-| **W15** | BREAK | 2027.01.09 | — | Share project with whole community | Grand Gathering Event |
+| **W02** | BUILD | 2026.10.12 | ONLINE | Review existing Pseudo Lab assets; research and share LinkedIn content best practices connecting Blog and/or GitHub; identify approaches to global storytelling, content structure, and contribution pathways | Best-practice reference pool |
+| **W03** | BUILD | 2026.10.19 | ONLINE | Develop a proposed LinkedIn content format; apply each proposed format to the same selected Pseudo Lab project content; share and compare approaches | Individual content prototypes |
+| **W04** | BREAK | 2026.10.26 | — | Review proposed formats and vote on one approach to develop into the standardized OpenLoop content format | Selected content format |
+| **W05** | CURATE | 2026.11.02 | OFFLINE | Refine the selected approach into a standardized content format; map the end-to-end process; define common steps, guidelines, inputs, outputs, and QA criteria | Standardized OpenLoop content workflow |
+| **W06** | CURATE | 2026.11.09 | ONLINE | Review example repositories; identify approaches to adopt, adapt, or avoid; design the shared OpenLoop repository structure; divide workflow components and responsibilities | Repository architecture & responsibility map |
+| **W07** | DEVELOP | 2026.11.16 | ONLINE | Develop assigned workflow components within the shared repository; document implementation decisions; review components and dependencies with peers | Initial workflow components |
+| **W08** | DEVELOP | 2026.11.23 | ONLINE | Connect individual components into the first end-to-end OpenLoop workflow; review consistency across inputs, outputs, instructions, terminology, and QA | Integrated OpenLoop workflow |
+| **W09** | DEVELOP | 2026.11.30 | ONLINE | Test the integrated workflow using selected Pseudo Lab project content; record quality, consistency, processing time, AI/token usage, and human intervention; identify bottlenecks | Workflow test results |
+| **W10** | SCALE | 2026.12.07 | OFFLINE | Refine the workflow based on test results; identify unnecessary AI usage; finalize the balance between human-led, rule/template-based, AI-assisted, and automated tasks | Refined OpenLoop workflow |
+| **W11** | SCALE | 2026.12.14 | ONLINE | Document how to use the workflow; complete instructions, guidelines, templates, and supporting materials; define inputs, outputs, human review points, and QA | Workflow documentation |
+| **W12** | SCALE | 2026.12.21 | ONLINE | Test whether the workflow can be reproduced using the documentation alone; share with Pseudo Lab members and collect feedback | Reproducibility test & community feedback |
+| **W13** | SCALE | 2026.12.28 | OFFLINE | Apply the refined workflow to selected Pseudo Lab project content; incorporate final feedback; finalize the reusable workflow and documentation; conduct project retrospective | Final OpenLoop Toolkit |
+| **W14** | BREAK | 2027.01.04 | — | Prepare for final sharing and presentation | Presentation preparation |
+| **W15** | GRAND GATHERING | 2027.01.09 | OFFLINE | Share the OpenLoop project, workflow, findings, and outcomes with the wider community | Grand Gathering Event |
 
 <br>
 
 # The OpenLoop Workflow
 
-> **Build manually. Standardize what works. Automate what repeats.**
+> **Build manually. Standardize what works. Automate with purpose.**
 
 ```text
 Blog Translation
         ↓
-LinkedIn Visual
-        ↓
 LinkedIn Post
+        ↓
+LinkedIn Visual
         ↓
 QA & Human Review
         ↓
@@ -142,79 +141,28 @@ Global Discovery
         ↓
 GitHub Contribution
         ↻
-```
 
-OpenLoop begins with human-led content experimentation before gradually introducing AI automation.
-
-This allows us to first understand **what good content looks like**, then determine **which parts of the process are repetitive enough to automate**, rather than automating the process before it has been validated.
-
-<br>
-
-# AI Workflow Experiment
-
-A core part of OpenLoop is exploring how the standardized content process can be translated into a **repository-based AI workflow**.
-
-Each participant will build and test one workflow using either **Codex or Claude Code**.
-
-A typical workflow may follow a structure such as:
-
-```text
-openloop-workflow/
-│
-├── AGENTS.md / CLAUDE.md
-│
-├── guidelines/
-│   ├── translation-guide.md
-│   ├── linkedin-guide.md
-│   ├── visual-guide.md
-│   └── qa-guide.md
-│
-├── workflows/
-│   ├── translate.md
-│   ├── visual.md
-│   ├── linkedin.md
-│   └── review.md
-│
-├── input/
-│   └── project/
-│
-└── output/
-    └── project/
-```
-
-The exact implementation may differ between participants. However, workflows will follow common OpenLoop requirements for **inputs, outputs, content guidelines, and QA**, allowing different approaches to be meaningfully compared.
-
-### Workflow Evaluation
-
-AI workflow experiments will be evaluated across:
-
-| Criterion | What We Evaluate |
-| --- | --- |
-| **Accuracy** | Does the output preserve source facts and technical meaning? |
-| **Content Quality** | Is the content clear and appropriate for global audiences? |
-| **Consistency** | Does the output follow the standardized OpenLoop format? |
-| **Efficiency** | How much time does the workflow require? |
-| **Human Intervention** | How much manual editing or correction is needed? |
-| **Reusability** | Can the same workflow be applied to another project without rebuilding it? |
-
-The strongest elements from individual experiments will be incorporated into the shared OpenLoop workflow.
 
 <br>
 
 # Team
 
-> **OpenLoop encourages all members to contribute across Content Storytelling and AI Automation.**
+> **OpenLoop encourages all members to contribute across Content Storytelling and Workflow Development.**
 
 ## Core Team
 
 | Role | Name | Focus |
 | --- | --- | --- |
 | Builder | `@Alice` | Project direction & coordination |
-| Runner | `@name` | Content Storytelling / AI Automation |
-| Runner | `@name` | Content Storytelling / AI Automation |
-| Runner | `@name` | Content Storytelling / AI Automation |
-| Runner | `@name` | Content Storytelling / AI Automation |
-| Runner | `@name` | Content Storytelling / AI Automation |
+| Runner | `@name` | TBD |
+| Runner | `@name` | TBD |
+| Runner | `@name` | TBD |
+| Runner | `@name` | TBD |
+| Runner | `@name` | TBD |
+
+Workflow responsibilities will be defined collaboratively after the shared content process and repository architecture are established.
+
+Each participant will take primary responsibility for a workflow component while contributing to peer review, testing, and integration across the shared repository.
 
 <br>
 
@@ -223,8 +171,8 @@ The strongest elements from individual experiments will be incorporated into the
 ### Our Principles
 
 - **Create Together** — Share ownership across storytelling, translation, design, workflow development, testing, and documentation.
-- **Experiment & Learn** — Test content formats and AI-powered workflows, compare results, document challenges, and improve each iteration.
-- **Automate What Repeats** — Use AI to streamline repetitive tasks while keeping human judgment where it matters.
+- **Experiment & Learn** — Test content formats and workflow approaches, document challenges, and improve each iteration.
+- **Automate with Purpose** — Use AI and automation where they meaningfully improve quality, consistency, efficiency, or scalability.
 - **Build for Repeatability** — Turn successful experiments into simple, documented workflows that can be reused beyond a single season.
 
 <br>
