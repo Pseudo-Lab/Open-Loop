@@ -1,0 +1,29 @@
+[𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗔𝗴𝗲𝗻𝘁 𝗟𝗲𝗮𝗱𝗲𝗿𝗯𝗼𝗮𝗿𝗱 | 𝗦𝗲𝗮𝘀𝗼𝗻 𝟭𝟯] Exit code 0. VALID? Add two letters and it's INVALID. 🧪
+
+Meet 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗔𝗴𝗲𝗻𝘁 𝗟𝗲𝗮𝗱𝗲𝗿𝗯𝗼𝗮𝗿𝗱, a Pseudo Lab community project building a public benchmark and leaderboard for agents that solve science problems.
+
+A run that exits cleanly isn't a result. If the official metric is missing or invalid, the run fails. Only runs that pass every check reach the board.
+
+🔍 What do we evaluate?
+Not just the model, but the agent's design:
+- Correctness
+- Tool use
+- Cost
+- Reproducibility
+
+🔄 How does a run reach the board?
+Define the task → isolate the run → run the agent → validate the schema → check the official metric → publish to the board.
+Every run gets its own workspace, and no state carries over from earlier runs.
+
+✅ Built so far: a public challenge, an evaluation framework, an isolated run pipeline and a leaderboard MVP.
+➡️ Next: more science tasks and models, multi-agent benchmarks, and exploring autonomous research agents inspired by AutoResearch. From agents that search to agents that research.
+
+🔗 GitHub: https://github.com/Pseudo-Lab/Science-Agent-Leaderboard
+🔗 Project Page: https://pseudo-lab.com/projects/18aed256-63fa-4ba0-8de0-bb9ce34fde93
+
+👥 Talk to the Team: Project Lead · Benchmark Designer · Evaluation Lead · Benchmark Research [English names to verify]
+
+𝘌𝘹𝘱𝘭𝘰𝘳𝘦. 𝘊𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘵𝘦. 𝘉𝘶𝘪𝘭𝘥 𝘛𝘰𝘨𝘦𝘵𝘩𝘦𝘳.
+
+#PseudoLab #Season13 #AIAgents #Benchmark #Leaderboard #LLM #AIforScience #Reproducibility #OpenSourceCommunity
+Music: alexrockbeat via Pixabay [verify: same track as the season sound file]
