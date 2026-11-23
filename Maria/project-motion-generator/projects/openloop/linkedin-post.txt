@@ -1,0 +1,23 @@
+[𝗢𝗽𝗲𝗻𝗟𝗼𝗼𝗽 𝗦𝗲𝗮𝘀𝗼𝗻 𝟭𝟯 | 𝗢𝗽𝗲𝗻𝗟𝗼𝗼𝗽] What does it take for a Korean open-source project to go from local to global? 🔄
+
+Meet 𝗢𝗽𝗲𝗻𝗟𝗼𝗼𝗽, a Pseudo Lab community project building a reusable human–AI workflow that turns project stories into English content. Switch off "local only" and most of the same letters spell "global."
+
+Reaching global audiences takes more than translation. We call it OpenRel, open-source relations: keeping technical accuracy, adapting context, and connecting readers to ways they can contribute.
+
+🔍 How does it work?
+
+- Build the loop: test LinkedIn formats on real Pseudo Lab project content.
+- Standardize what works: define common steps, templates and QA criteria.
+- Automate with purpose: develop a shared repository workflow with Codex or Claude Code.
+
+Our goal: an OpenLoop Toolkit any Pseudo Lab project can reuse to find new contributors.
+
+🔗 GitHub: https://github.com/Pseudo-Lab/Open-Loop
+🔗 Project Page: https://pseudo-lab.com/projects/f19e207c-1c3d-426b-b485-d1744655c7a0
+
+👥 Talk to the Team: Alice (Builder) · [Runner names to verify]
+
+𝘌𝘹𝘱𝘭𝘰𝘳𝘦. 𝘊𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘵𝘦. 𝘉𝘶𝘪𝘭𝘥 𝘛𝘰𝘨𝘦𝘵𝘩𝘦𝘳.
+
+#PseudoLab #Season13 #OpenSourceCommunity #OpenSource #ContentStrategy #AIWorkflow #DevRel #GlobalCommunity
+Music: alexrockbeat via Pixabay
